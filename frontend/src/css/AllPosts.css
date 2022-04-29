@@ -1,0 +1,7 @@
+.horizontal-data {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    flex-direction: row;
+    column-gap: 2em;
+}
